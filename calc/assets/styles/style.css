@@ -1,0 +1,17 @@
+.calculator {
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.input {
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.btn {
+    width: 35px;
+    height: 35px;
+    font-size: 20px;
+}
